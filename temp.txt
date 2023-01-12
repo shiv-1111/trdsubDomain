@@ -1,0 +1,56 @@
+<div class="row justify-content-sm-between justify-content-center px-2 px-md-0">
+            <div class="col-lg-2 col-sm-5 col-10 mb-lg-0 mb-3 rounded py-4 px-3 bg-light">
+                <div class="pt-5">
+                    <p class="fw-bold">E-commerce</p>
+                    <p class="text-muted text-justify"><small>You're new to the game, out what it takes to be crack
+                            it.</small></p>
+                </div>
+                <div>
+                    <a href="#" class="text-dark text-decoration-none border-bottom">Learn More&emsp;</a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-sm-5 col-10 mb-lg-0 mb-3 rounded py-4 px-3 bg-light">
+                <div class="pt-5">
+                    <p class="fw-bold">Sales Force</p>
+                    <p class="text-muted text-justify"><small>You're new to the game, out what it takes to be crack
+                            it.</small></p>
+                </div>
+                <div>
+                    <a href="#" class="text-dark text-decoration-none border-bottom">Learn More&emsp;</a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-sm-5 col-10 mb-lg-0 mb-3 rounded py-4 px-3 bg-light">
+                <div class="pt-5">
+                    <p class="fw-bold">Mobile Solutions</p>
+                    <p class="text-muted text-justify"><small>You're new to the game, out what it takes to be crack
+                            it.</small></p>
+                </div>
+                <div>
+                    <a href="#" class="text-dark text-decoration-none border-bottom">Learn More&emsp;</a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-sm-5 col-10 mb-lg-0 mb-3 rounded py-4 px-3 bg-light">
+                <div class="pt-5">
+                    <p class="fw-bold">Data Integrations</p>
+                    <p class="text-muted text-justify"><small>You're new to the game, out what it takes to be crack
+                            it.</small></p>
+                </div>
+                <div>
+                    <a href="#" class="text-dark text-decoration-none border-bottom">Learn More&emsp;</a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-sm-5 col-10 mb-lg-0 mb-3 rounded py-4 px-3 bg-light">
+                <div class="pt-5">
+                    <p class="fw-bold">E-commerce</p>
+                    <p class="text-muted text-justify"><small>You're new to the game, out what it takes to be crack
+                            it.</small></p>
+                </div>
+                <div>
+                    <a href="#" class="text-dark text-decoration-none border-bottom">Learn More&emsp;</a>
+                </div>
+            </div>
+        </div>
+        <div class="my-md-5 text-center">
+            <a href="#" class="text-decoration-none btn btn-light text-center px-5 rounded-pill shadow fw-bold">Browse
+                All</a>
+        </div>
